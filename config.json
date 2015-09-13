@@ -1,0 +1,9 @@
+{
+  "resultdb": "mongodb+resultdb://127.0.0.1:27017/kaidou",
+  "message_queue": "redis://127.0.0.1:6379/1",
+  "webui": {
+    "username": "ellipse42",
+    "password": "*********",
+    "need-auth": true
+  }
+}
